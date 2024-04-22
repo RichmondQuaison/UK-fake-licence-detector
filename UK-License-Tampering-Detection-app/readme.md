@@ -12,7 +12,7 @@ Visit the <a href="uk-fake-licence-detector-c1cf308019d6.herokuapp.com">Web Appl
 
 ## __About__
 <p align="justify">
-This is a simple application to detect tampering of Pan Cards using <a href="https://en.wikipedia.org/wiki/Structural_similarity#:~:text=The%20structural%20similarity%20index%20measure,the%20similarity%20between%20two%20images.">Structural Similarity Index Measure (SSIM)</a>. It is used to measure similarity of two images. A Pan Card is tampered if it's SSIM value with original Pan Card template is low.
+This is a simple application to detect tampering of Uk License using <a href="https://en.wikipedia.org/wiki/Structural_similarity#:~:text=The%20structural%20similarity%20index%20measure,the%20similarity%20between%20two%20images.">Structural Similarity Index Measure (SSIM)</a>. It is used to measure similarity of two images. A Pan Card is tampered if it's SSIM value with original Pan Card template is low.
 
 Step to run application:
 Step 1:	Create the copy of the project.
