@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# __Pan Card Tampering Detection__
+# __Uk Fake Licence Tampering __
 
 ### Built Using
   
@@ -11,7 +11,7 @@
 [![Flask][flask-shield]][flask-url]
 [![ScikitImage][scikit-image-shield]][scikit-image-url]
 
-Visit the <a href="https://pancard-tampering-detector.onrender.com">Web Application</a> deployed on render
+Visit the <a href="uk-fake-licence-detector-c1cf308019d6.herokuapp.com">Web Application</a> deployed on render
 
 </div>
 
@@ -28,7 +28,7 @@ See the implementation details with <a href="https://github.com/Pranav-Nagpure/P
 
 ## __Getting Started__
 
-This Project is Built With [![Anaconda][anaconda-shield]][anaconda-url] [![VSCode][vscode-shield]][vscode-url] [![Render][render-shield]][render-url]
+This Project is Built With [![Anaconda][anaconda-shield]][anaconda-url] [![VSCode][vscode-shield]][vscode-url] 
 
 ### __Installation__
 To use the app on local machine, open Anaconda Prompt and run the following commands:
