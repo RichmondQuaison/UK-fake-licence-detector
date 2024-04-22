@@ -6,7 +6,7 @@
 
 
 
-Visit the <a href="uk-fake-licence-detector-c1cf308019d6.herokuapp.com">Web Application</a> deployed on render
+Visit the <a href="uk-fake-licence-detector-c1cf308019d6.herokuapp.com">Web Application</a> deployed on Heroku
 
 </div>
 
