@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# __Uk Fake Licence Tampering __
+# __Uk Fake Licence Detector __
 
 ### Built Using
   
@@ -67,23 +67,5 @@ python app.py
 (<a href="#readme-top">back to top</a>)
 </p>
 
-[python-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/python-shield.png "Python"
-[python-url]: https://www.python.org
 
-[html-css-js-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/html-css-js-shield.png
-[html-css-js-url]: https://html.spec.whatwg.org "HTML | CSS | JavaScript"
-
-[anaconda-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/anaconda-shield.png
-[anaconda-url]: https://www.anaconda.com "Anaconda"
-
-[vscode-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/vscode-shield.png
-[vscode-url]: https://code.visualstudio.com "VSCode"
-
-[render-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/render-shield.png
-[render-url]: https://render.com "Render"
-
-[flask-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/flask-shield.png "Flask"
-[flask-url]: https://flask.palletsprojects.com
-
-[scikit-image-shield]: https://raw.githubusercontent.com/Pranav-Nagpure/Support-Repository/master/images/scikit-image-shield.png "Scikit-Image"
 [scikit-image-url]: https://scikit-image.org
